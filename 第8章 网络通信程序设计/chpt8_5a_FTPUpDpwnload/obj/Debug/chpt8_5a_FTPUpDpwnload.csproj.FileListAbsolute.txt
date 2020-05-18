@@ -1,0 +1,8 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\bin\Debug\chpt8_5a_FTPUpDpwnload.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\bin\Debug\chpt8_5a_FTPUpDpwnload.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\obj\Debug\chpt8_5a_FTPUpDpwnload.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\obj\Debug\chpt8_5a_FTPUpDpwnload.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\obj\Debug\chpt8_5a_FTPUpDpwnload.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\obj\Debug\chpt8_5a_FTPUpDpwnload.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\obj\Debug\chpt8_5a_FTPUpDpwnload.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_5a_FTPUpDpwnload\obj\Debug\chpt8_5a_FTPUpDpwnload.pdb

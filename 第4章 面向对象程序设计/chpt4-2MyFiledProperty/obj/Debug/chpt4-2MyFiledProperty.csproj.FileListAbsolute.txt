@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt4-2MyFiledProperty\bin\Debug\chpt4-2MyFiledProperty.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt4-2MyFiledProperty\bin\Debug\chpt4-2MyFiledProperty.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt4-2MyFiledProperty\obj\Debug\chpt4-2MyFiledProperty.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt4-2MyFiledProperty\obj\Debug\chpt4-2MyFiledProperty.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt4-2MyFiledProperty\obj\Debug\chpt4-2MyFiledProperty.pdb

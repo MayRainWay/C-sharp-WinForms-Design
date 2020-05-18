@@ -1,0 +1,1 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.6.1_Bitmap类测试\bin\Debug\10.6.1_Bitmap类测试.exe.config

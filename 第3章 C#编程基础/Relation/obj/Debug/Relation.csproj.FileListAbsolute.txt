@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\Relation\bin\Debug\Relation.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\Relation\bin\Debug\Relation.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\Relation\obj\Debug\Relation.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\Relation\obj\Debug\Relation.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\Relation\obj\Debug\Relation.pdb

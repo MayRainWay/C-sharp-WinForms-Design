@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsolePutRead\bin\Debug\ConsolePutRead.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsolePutRead\bin\Debug\ConsolePutRead.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsolePutRead\obj\Debug\ConsolePutRead.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsolePutRead\obj\Debug\ConsolePutRead.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsolePutRead\obj\Debug\ConsolePutRead.pdb

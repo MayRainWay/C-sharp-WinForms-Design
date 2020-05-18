@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "绘制直线2", "绘制直线2.csproj", "{BDE655D2-2F93-40E0-8F39-68DE95392DFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE655D2-2F93-40E0-8F39-68DE95392DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE655D2-2F93-40E0-8F39-68DE95392DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE655D2-2F93-40E0-8F39-68DE95392DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE655D2-2F93-40E0-8F39-68DE95392DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

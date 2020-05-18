@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\classDeclare\bin\Debug\classDeclare.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\classDeclare\bin\Debug\classDeclare.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\classDeclare\obj\Debug\classDeclare.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\classDeclare\obj\Debug\classDeclare.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\classDeclare\obj\Debug\classDeclare.pdb

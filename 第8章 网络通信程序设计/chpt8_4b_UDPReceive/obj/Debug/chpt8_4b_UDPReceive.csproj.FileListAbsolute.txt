@@ -1,0 +1,8 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\bin\Debug\chpt8_4b_UDPReceive.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\bin\Debug\chpt8_4b_UDPReceive.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\obj\Debug\chpt8_4b_UDPReceive.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\obj\Debug\chpt8_4b_UDPReceive.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\obj\Debug\chpt8_4b_UDPReceive.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\obj\Debug\chpt8_4b_UDPReceive.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\obj\Debug\chpt8_4b_UDPReceive.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4b_UDPReceive\obj\Debug\chpt8_4b_UDPReceive.pdb

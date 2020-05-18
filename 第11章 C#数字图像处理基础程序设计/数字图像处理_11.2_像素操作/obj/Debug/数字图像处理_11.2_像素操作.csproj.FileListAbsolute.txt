@@ -1,0 +1,1 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\数字图像处理_11.2_像素操作\bin\Debug\数字图像处理_11.2_像素操作.exe.config

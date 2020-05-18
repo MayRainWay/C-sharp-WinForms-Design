@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt3-9-MyTryCatch\bin\Debug\chpt3-9-MyTryCatch.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt3-9-MyTryCatch\bin\Debug\chpt3-9-MyTryCatch.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt3-9-MyTryCatch\obj\Debug\chpt3-9-MyTryCatch.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt3-9-MyTryCatch\obj\Debug\chpt3-9-MyTryCatch.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\chpt3-9-MyTryCatch\obj\Debug\chpt3-9-MyTryCatch.pdb

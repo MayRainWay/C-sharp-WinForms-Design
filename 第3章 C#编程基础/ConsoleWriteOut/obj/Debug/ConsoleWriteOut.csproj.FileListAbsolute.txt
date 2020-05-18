@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsoleWriteOut\bin\Debug\ConsoleWriteOut.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsoleWriteOut\bin\Debug\ConsoleWriteOut.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsoleWriteOut\obj\Debug\ConsoleWriteOut.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsoleWriteOut\obj\Debug\ConsoleWriteOut.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\ConsoleWriteOut\obj\Debug\ConsoleWriteOut.csprojResolveAssemblyReference.cache

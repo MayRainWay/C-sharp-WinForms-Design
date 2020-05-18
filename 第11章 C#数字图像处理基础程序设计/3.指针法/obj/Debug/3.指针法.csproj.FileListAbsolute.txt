@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\bin\Debug\3.指针法.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\obj\Debug\3.指针法.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\obj\Debug\_3.指针法.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\obj\Debug\_3.指针法.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\obj\Debug\3.指针法.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\bin\Debug\3.指针法.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\bin\Debug\3.指针法.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\obj\Debug\3.指针法.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\3.指针法\obj\Debug\3.指针法.pdb

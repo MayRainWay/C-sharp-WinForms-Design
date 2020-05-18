@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\aboutClass\bin\Debug\aboutClass.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\aboutClass\bin\Debug\aboutClass.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\aboutClass\obj\Debug\aboutClass.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\aboutClass\obj\Debug\aboutClass.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\aboutClass\obj\Debug\aboutClass.pdb

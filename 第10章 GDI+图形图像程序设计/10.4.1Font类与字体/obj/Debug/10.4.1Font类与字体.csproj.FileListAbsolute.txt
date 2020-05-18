@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\bin\Debug\10.4.1Font类与字体.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\bin\Debug\10.4.1Font类与字体.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\bin\Debug\10.4.1Font类与字体.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\obj\Debug\10.4.1Font类与字体.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\obj\Debug\_10._4._1Font类与字体.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\obj\Debug\_10._4._1Font类与字体.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\obj\Debug\10.4.1Font类与字体.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\obj\Debug\10.4.1Font类与字体.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.1Font类与字体\obj\Debug\10.4.1Font类与字体.pdb

@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第4章 面向对象程序设计\chpt4-3MyMethodTransmission\bin\Debug\chpt4-3MyMethodTransmission.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第4章 面向对象程序设计\chpt4-3MyMethodTransmission\bin\Debug\chpt4-3MyMethodTransmission.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第4章 面向对象程序设计\chpt4-3MyMethodTransmission\obj\Debug\chpt4-3MyMethodTransmission.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第4章 面向对象程序设计\chpt4-3MyMethodTransmission\obj\Debug\chpt4-3MyMethodTransmission.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第4章 面向对象程序设计\chpt4-3MyMethodTransmission\obj\Debug\chpt4-3MyMethodTransmission.pdb

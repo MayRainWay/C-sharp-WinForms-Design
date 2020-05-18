@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\bin\Debug\10.2.3绘制曲线.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\bin\Debug\10.2.3绘制曲线.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\bin\Debug\10.2.3绘制曲线.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\obj\Debug\10.2.3绘制曲线.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\obj\Debug\_10._2._3绘制曲线.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\obj\Debug\_10._2._3绘制曲线.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\obj\Debug\10.2.3绘制曲线.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\obj\Debug\10.2.3绘制曲线.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.3绘制曲线\obj\Debug\10.2.3绘制曲线.pdb

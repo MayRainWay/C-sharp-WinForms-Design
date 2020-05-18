@@ -1,0 +1,4 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\3.1 一个简单的C#程序设计\MyFirstProgram\obj\Debug\MyFirstProgram.pdb

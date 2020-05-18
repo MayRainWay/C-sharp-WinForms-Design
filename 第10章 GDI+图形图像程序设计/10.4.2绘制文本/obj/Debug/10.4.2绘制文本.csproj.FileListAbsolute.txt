@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\bin\Debug\10.4.2绘制文本.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\bin\Debug\10.4.2绘制文本.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\bin\Debug\10.4.2绘制文本.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\obj\Debug\10.4.2绘制文本.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\obj\Debug\_10._4._2绘制文本.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\obj\Debug\_10._4._2绘制文本.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\obj\Debug\10.4.2绘制文本.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\obj\Debug\10.4.2绘制文本.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.4.2绘制文本\obj\Debug\10.4.2绘制文本.pdb

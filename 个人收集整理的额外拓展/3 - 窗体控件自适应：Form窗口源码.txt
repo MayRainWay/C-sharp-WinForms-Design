@@ -1,0 +1,11 @@
+//由于VS2015存在一些bug（我不太清楚其他版本的VS怎么样），所以下面的代码最好不要直接复制，一步一步来最好！
+
+        AutoSizeFormClass asc = new AutoSizeFormClass();
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            asc.controllInitializeSize(this);
+        }
+        private void Form1_SizeChanged(object sender, EventArgs e)
+        {
+            asc.controlAutoSize(this);
+        }

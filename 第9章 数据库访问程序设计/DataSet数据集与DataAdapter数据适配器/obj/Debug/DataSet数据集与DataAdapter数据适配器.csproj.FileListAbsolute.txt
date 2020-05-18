@@ -1,0 +1,1 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第9章 数据库访问程序设计\DataSet数据集与DataAdapter数据适配器\obj\Debug\DataSet数据集与DataAdapter数据适配器.csprojResolveAssemblyReference.cache

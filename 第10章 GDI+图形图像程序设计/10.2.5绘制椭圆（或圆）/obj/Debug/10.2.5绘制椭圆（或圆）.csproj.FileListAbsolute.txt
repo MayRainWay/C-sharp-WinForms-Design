@@ -1,0 +1,8 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\bin\Debug\10.2.5绘制椭圆（或圆）.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\bin\Debug\10.2.5绘制椭圆（或圆）.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\bin\Debug\10.2.5绘制椭圆（或圆）.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\obj\Debug\_10._2._5绘制椭圆_或圆_.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\obj\Debug\_10._2._5绘制椭圆_或圆_.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\obj\Debug\10.2.5绘制椭圆（或圆）.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\obj\Debug\10.2.5绘制椭圆（或圆）.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.5绘制椭圆（或圆）\obj\Debug\10.2.5绘制椭圆（或圆）.pdb

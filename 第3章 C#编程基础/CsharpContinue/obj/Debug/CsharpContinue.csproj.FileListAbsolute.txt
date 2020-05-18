@@ -1,0 +1,4 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\CsharpContinue\bin\Debug\CsharpContinue.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\CsharpContinue\bin\Debug\CsharpContinue.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\CsharpContinue\obj\Debug\CsharpContinue.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\CsharpContinue\obj\Debug\CsharpContinue.pdb

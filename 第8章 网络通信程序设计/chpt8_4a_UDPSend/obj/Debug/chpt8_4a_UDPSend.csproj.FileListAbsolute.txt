@@ -1,0 +1,8 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\bin\Debug\chpt8_4a_UDPSend.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\bin\Debug\chpt8_4a_UDPSend.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\obj\Debug\chpt8_4a_UDPSend.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\obj\Debug\chpt8_4a_UDPSend.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\obj\Debug\chpt8_4a_UDPSend.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\obj\Debug\chpt8_4a_UDPSend.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\obj\Debug\chpt8_4a_UDPSend.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第8章 网络通信程序设计\chpt8_4a_UDPSend\obj\Debug\chpt8_4a_UDPSend.csprojResolveAssemblyReference.cache

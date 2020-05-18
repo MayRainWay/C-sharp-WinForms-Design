@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\bin\Debug\10.2.2绘制多边形.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\bin\Debug\10.2.2绘制多边形.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\bin\Debug\10.2.2绘制多边形.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\obj\Debug\10.2.2绘制多边形.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\obj\Debug\_10._2._2绘制多边形.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\obj\Debug\_10._2._2绘制多边形.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\obj\Debug\10.2.2绘制多边形.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\obj\Debug\10.2.2绘制多边形.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\10.2.2绘制多边形\obj\Debug\10.2.2绘制多边形.pdb

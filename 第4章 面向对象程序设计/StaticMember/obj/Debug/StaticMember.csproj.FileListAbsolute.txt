@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\StaticMember\obj\Debug\StaticMember.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\StaticMember\bin\Debug\StaticMember.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\StaticMember\bin\Debug\StaticMember.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\StaticMember\obj\Debug\StaticMember.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\StaticMember\obj\Debug\StaticMember.pdb

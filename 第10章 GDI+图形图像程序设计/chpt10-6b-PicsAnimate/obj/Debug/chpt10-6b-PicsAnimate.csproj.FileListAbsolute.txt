@@ -1,0 +1,8 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\bin\Debug\chpt10-6b-PicsAnmate.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\obj\Debug\chpt10-6b-PicsAnmate.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\obj\Debug\chpt10-6b-PicsAnmate.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\bin\Debug\chpt10-6b-PicsAnmate.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\bin\Debug\chpt10-6b-PicsAnmate.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\obj\Debug\chpt10_6b_PicsAnmate.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\obj\Debug\chpt10_6b_PicsAnmate.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-6b-PicsAnimate\obj\Debug\chpt10-6b-PicsAnimate.csproj.GenerateResource.Cache

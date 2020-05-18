@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\bin\Debug\2.内存法.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\bin\Debug\2.内存法.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\bin\Debug\2.内存法.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\obj\Debug\2.内存法.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\obj\Debug\_2.内存法.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\obj\Debug\_2.内存法.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\obj\Debug\2.内存法.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\obj\Debug\2.内存法.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第11章 C#数字图像处理基础程序设计\2.内存法\obj\Debug\2.内存法.pdb

@@ -1,0 +1,8 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\bin\Debug\Test1_ControlBox.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\bin\Debug\Test1_ControlBox.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\obj\Debug\Test1_ControlBox.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\obj\Debug\Test1_ControlBox.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\obj\Debug\Test1_ControlBox.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\obj\Debug\Test1_ControlBox.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\obj\Debug\Test1_ControlBox.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第5章 Windows窗体与控件程序设计\Test1_ControlBox\obj\Debug\Test1_ControlBox.pdb

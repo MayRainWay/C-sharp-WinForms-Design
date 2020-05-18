@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\bin\Debug\chapt10-6a-BitmapProcess.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\bin\Debug\chapt10-6a-BitmapProcess.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\bin\Debug\chapt10-6a-BitmapProcess.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\obj\Debug\chapt10-6a-BitmapProcess.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\obj\Debug\chapt10_6a_BitmapProcess.s.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\obj\Debug\chapt10_6a_BitmapProcess.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\obj\Debug\chapt10-6a-BitmapProcess.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\obj\Debug\chapt10-6a-BitmapProcess.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chapt10-6a-BitmapProcess\obj\Debug\chapt10-6a-BitmapProcess.pdb

@@ -1,0 +1,9 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\bin\Debug\chpt10-5-MouseDrawline.exe.config
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\bin\Debug\chpt10-5-MouseDrawline.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\bin\Debug\chpt10-5-MouseDrawline.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\obj\Debug\chpt10-5-MouseDrawline.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\obj\Debug\chpt10_5_MouseDrawline.Form1.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\obj\Debug\chpt10_5_MouseDrawline.Properties.Resources.resources
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\obj\Debug\chpt10-5-MouseDrawline.csproj.GenerateResource.Cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\obj\Debug\chpt10-5-MouseDrawline.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第10章 GDI+图形图像程序设计\chpt10-5-MouseDrawline\obj\Debug\chpt10-5-MouseDrawline.pdb

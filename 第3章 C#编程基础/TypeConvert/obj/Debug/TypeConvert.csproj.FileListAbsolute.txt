@@ -1,0 +1,5 @@
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\TypeConvert\obj\Debug\TypeConvert.csprojResolveAssemblyReference.cache
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\TypeConvert\bin\Debug\TypeConvert.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\TypeConvert\bin\Debug\TypeConvert.pdb
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\TypeConvert\obj\Debug\TypeConvert.exe
+C:\Users\RainWay\Documents\C#语言 Windows程序设计\第3章 C#编程基础\TypeConvert\obj\Debug\TypeConvert.pdb
